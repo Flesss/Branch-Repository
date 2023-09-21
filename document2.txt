@@ -1,5 +1,5 @@
 // C program for Merge Sort
-#include <stdio.h>
+#include <studio.h>
 #include <stdlib.h>
 
 // Merges two subarrays of arr[].
