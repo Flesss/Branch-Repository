@@ -1,4 +1,4 @@
-print("hello world")
+print("hello python!")
 
 
 def partition(l, r, nums):
